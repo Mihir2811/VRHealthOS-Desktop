@@ -1,6 +1,6 @@
-# HealthOS
+# VRHealthOS
 
-HealthOS is a comprehensive desktop application designed for health and wellness management. Built with modern .NET technologies, it provides an intuitive interface for tracking personal health metrics, managing medical records, and generating professional reports.
+VRHealthOS is a comprehensive desktop application designed for health and wellness management. Built with modern .NET technologies, it provides an intuitive interface for tracking personal health metrics, managing medical records, and generating professional reports.
 
 ## Features
 
@@ -18,15 +18,15 @@ HealthOS is a comprehensive desktop application designed for health and wellness
 
 ## Quick Start
 
-1. **Download**: Obtain the latest release from the [Releases page](https://github.com/yourusername/HealthOS/releases).
-2. **Run**: Double-click `HealthOS.exe` to launch the application.
+1. **Download**: Obtain the latest release from the [Releases page](https://github.com/yourusername/VRHealthOS/releases).
+2. **Run**: Double-click `VRHealthOS.exe` to launch the application.
 3. **First Time Setup**:
    - Create a new user account.
    - Import or enter your health data.
    - Customize dashboard widgets.
 
 ```text
-HealthOS.exe
+VRHealthOS.exe
 ```
 
 ## Usage
@@ -72,7 +72,7 @@ View key metrics at a glance: weight, blood pressure, fitness goals, medication 
 ## Troubleshooting
 
 - **App won't start**: Ensure .NET 8.0 Desktop Runtime is installed.
-- **Database issues**: Delete `HealthOS.db` for reset (backup first).
+- **Database issues**: Delete `VRHealthOS.db` for reset (backup first).
 - **PDF errors**: Check font paths and disk space.
 
 ## Contributing
